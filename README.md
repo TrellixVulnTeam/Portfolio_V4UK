@@ -1,10 +1,9 @@
-# Micael - The Ultimate Web Development Portfolio 
-![Micael](https://i.ibb.co/fHPM38q/image.png)
+# My Portfolio 
+![Samariddin](https://avatars.githubusercontent.com/u/61304177?s=400&u=7137c2e29e8f17b4fe23b821e8034c48fa73880e&v=4)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+This is a code repository for the open portfolio page from Micael https://github.com/adrianhajdin.
 
-Do you know the best way to show your skills to employers or potential clients? Stand out from the crowd by presenting a well-digitalized flexible portfolio and get your dream job.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
+## Stay up to date with new projects of Micael
+https://jsmasterypro.com/newsletter
